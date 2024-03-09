@@ -1,0 +1,43 @@
+﻿<Window x:Class="Talleres_Fitipaldi.VehiculosWindows"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Talleres_Fitipaldi"
+        mc:Ignorable="d"
+        Title="VehiculosWindows" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+
+        <!-- Título de la ventana -->
+        <Label Grid.Row="0" Content="Vehículos" FontSize="20" HorizontalAlignment="Center" />
+
+        <!-- Tabla de vehículos -->
+        <DataGrid Grid.Row="1" ItemsSource="{Binding listaVehiculos}" AutoGenerateColumns="False" SelectionChanged="DataGrid_SelectionChanged" Name="dataGridVehiculos">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Modelo" Binding="{Binding Modelo}" />
+                <DataGridTextColumn Header="Marca" Binding="{Binding Marca}" />
+                <DataGridTextColumn Header="Matrícula" Binding="{Binding Matricula}" />
+                <DataGridTextColumn Header="DNI" Binding="{Binding DNI}" />
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <!-- Panel para añadir vehículo -->
+        <StackPanel Grid.Row="2" Orientation="Horizontal">
+            <Label Content="Modelo:" VerticalAlignment="Center" Margin="10" />
+            <TextBox x:Name="txtModelo" VerticalAlignment="Center" Margin="10" Width="81" />
+            <Label Content="Marca:" VerticalAlignment="Center" Margin="10" Width="44" />
+            <TextBox x:Name="txtMarca" VerticalAlignment="Center" Margin="10" Width="80" />
+            <Label Content="Matrícula:" VerticalAlignment="Center" Margin="10" />
+            <TextBox x:Name="txtMatricula" VerticalAlignment="Center" Margin="10" Width="77" />
+            <Label Content="DNI:" VerticalAlignment="Center" Margin="10" />
+            <ComboBox x:Name="cmbDNI" VerticalAlignment="Center" Margin="10" ItemsSource="{Binding listaClientes}" DisplayMemberPath="DNI" SelectedValuePath="DNI" Width="100" SelectionChanged="cmbDNI_SelectionChanged" />
+            <Button Content="Añadir Vehículo" VerticalAlignment="Center" Margin="10" Click="BtnAgregarVehiculo_Click" Width="88" Height="26" />
+        </StackPanel>
+    </Grid>
+</Window>
+

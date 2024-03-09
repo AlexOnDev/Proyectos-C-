@@ -1,0 +1,29 @@
+C:\Users\Alejandro\source\repos\Talleres Fitipaldi\Talleres Fitipaldi\obj\Debug\net6.0-windows\Talleres Fitipaldi.csproj.AssemblyReference.cache
+C:\Users\Alejandro\source\repos\Talleres Fitipaldi\Talleres Fitipaldi\obj\Debug\net6.0-windows\ClientesWindows.baml
+C:\Users\Alejandro\source\repos\Talleres Fitipaldi\Talleres Fitipaldi\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Alejandro\source\repos\Talleres Fitipaldi\Talleres Fitipaldi\obj\Debug\net6.0-windows\Menu.baml
+C:\Users\Alejandro\source\repos\Talleres Fitipaldi\Talleres Fitipaldi\obj\Debug\net6.0-windows\ReparacionesWindow.baml
+C:\Users\Alejandro\source\repos\Talleres Fitipaldi\Talleres Fitipaldi\obj\Debug\net6.0-windows\ClientesWindows.g.cs
+C:\Users\Alejandro\source\repos\Talleres Fitipaldi\Talleres Fitipaldi\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Alejandro\source\repos\Talleres Fitipaldi\Talleres Fitipaldi\obj\Debug\net6.0-windows\Menu.g.cs
+C:\Users\Alejandro\source\repos\Talleres Fitipaldi\Talleres Fitipaldi\obj\Debug\net6.0-windows\ReparacionesWindow.g.cs
+C:\Users\Alejandro\source\repos\Talleres Fitipaldi\Talleres Fitipaldi\obj\Debug\net6.0-windows\VehiculosWindows.g.cs
+C:\Users\Alejandro\source\repos\Talleres Fitipaldi\Talleres Fitipaldi\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Alejandro\source\repos\Talleres Fitipaldi\Talleres Fitipaldi\obj\Debug\net6.0-windows\Talleres Fitipaldi_MarkupCompile.cache
+C:\Users\Alejandro\source\repos\Talleres Fitipaldi\Talleres Fitipaldi\obj\Debug\net6.0-windows\Talleres Fitipaldi_MarkupCompile.lref
+C:\Users\Alejandro\source\repos\Talleres Fitipaldi\Talleres Fitipaldi\bin\Debug\net6.0-windows\Talleres Fitipaldi.exe
+C:\Users\Alejandro\source\repos\Talleres Fitipaldi\Talleres Fitipaldi\bin\Debug\net6.0-windows\Talleres Fitipaldi.deps.json
+C:\Users\Alejandro\source\repos\Talleres Fitipaldi\Talleres Fitipaldi\bin\Debug\net6.0-windows\Talleres Fitipaldi.runtimeconfig.json
+C:\Users\Alejandro\source\repos\Talleres Fitipaldi\Talleres Fitipaldi\bin\Debug\net6.0-windows\Talleres Fitipaldi.dll
+C:\Users\Alejandro\source\repos\Talleres Fitipaldi\Talleres Fitipaldi\bin\Debug\net6.0-windows\Talleres Fitipaldi.pdb
+C:\Users\Alejandro\source\repos\Talleres Fitipaldi\Talleres Fitipaldi\obj\Debug\net6.0-windows\VehiculosWindows.baml
+C:\Users\Alejandro\source\repos\Talleres Fitipaldi\Talleres Fitipaldi\obj\Debug\net6.0-windows\Talleres Fitipaldi.g.resources
+C:\Users\Alejandro\source\repos\Talleres Fitipaldi\Talleres Fitipaldi\obj\Debug\net6.0-windows\Talleres Fitipaldi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alejandro\source\repos\Talleres Fitipaldi\Talleres Fitipaldi\obj\Debug\net6.0-windows\Talleres Fitipaldi.AssemblyInfoInputs.cache
+C:\Users\Alejandro\source\repos\Talleres Fitipaldi\Talleres Fitipaldi\obj\Debug\net6.0-windows\Talleres Fitipaldi.AssemblyInfo.cs
+C:\Users\Alejandro\source\repos\Talleres Fitipaldi\Talleres Fitipaldi\obj\Debug\net6.0-windows\Talleres Fitipaldi.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\source\repos\Talleres Fitipaldi\Talleres Fitipaldi\obj\Debug\net6.0-windows\Talleres Fitipaldi.dll
+C:\Users\Alejandro\source\repos\Talleres Fitipaldi\Talleres Fitipaldi\obj\Debug\net6.0-windows\refint\Talleres Fitipaldi.dll
+C:\Users\Alejandro\source\repos\Talleres Fitipaldi\Talleres Fitipaldi\obj\Debug\net6.0-windows\Talleres Fitipaldi.pdb
+C:\Users\Alejandro\source\repos\Talleres Fitipaldi\Talleres Fitipaldi\obj\Debug\net6.0-windows\Talleres Fitipaldi.genruntimeconfig.cache
+C:\Users\Alejandro\source\repos\Talleres Fitipaldi\Talleres Fitipaldi\obj\Debug\net6.0-windows\ref\Talleres Fitipaldi.dll

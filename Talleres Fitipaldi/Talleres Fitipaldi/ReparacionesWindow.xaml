@@ -1,0 +1,62 @@
+﻿<Window x:Class="Talleres_Fitipaldi.ReparacionesWindow"
+     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+     Title="Reparaciones" Height="600" Width="1200">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <StackPanel Orientation="Horizontal" Margin="10">
+            <Label Content="Seleccionar vehículo:" VerticalAlignment="Center" Margin="0 0 10 0"/>
+            <ComboBox x:Name="cmbVehiculos" Width="200" SelectionChanged="cmbVehiculos_SelectionChanged"/>
+        </StackPanel>
+        <Grid Grid.Row="1" Margin="162,52,106,274" Height="NaN" Width="NaN">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Label Content="Marca:" VerticalAlignment="Center" FontSize="18"/>
+            <TextBox x:Name="txtMarca" Grid.Column="1" Margin="10,0,0,0" VerticalAlignment="Center" IsReadOnly="True" Width="NaN"/>
+            <Label Grid.Row="1" Content="Modelo:" VerticalAlignment="Center" Margin="0 10 0 0" FontSize="18"/>
+            <TextBox x:Name="txtModelo" Grid.Row="1" Grid.Column="1" Margin="10 10 0 0" VerticalAlignment="Center" IsReadOnly="True"/>
+            <Label Grid.Row="2" Content="Matrícula:" VerticalAlignment="Center" Margin="0 10 0 0" FontSize="18"/>
+            <TextBox x:Name="txtMatricula" Grid.Row="2" Grid.Column="1" Margin="10 10 0 0" VerticalAlignment="Center" IsReadOnly="True"/>
+            
+            <Label Grid.Row="4" Content="Mecánico:" VerticalAlignment="Center" Margin="0 10 0 0" FontSize="18"/>
+            <TextBox x:Name="txtDNI" Grid.Row="5" Grid.Column="1" Margin="10 10 0 0" VerticalAlignment="Center" TextChanged="txtMecanico_TextChanged"/>
+            <Label Grid.Row="5" Content="DNI:" VerticalAlignment="Center" Margin="0 10 0 0" FontSize="18"/>
+            <TextBox x:Name="txtMecanico" Grid.Row="4" Grid.Column="1" Margin="10 10 0 0" VerticalAlignment="Center" IsReadOnly="True" IsEnabled="False"/>
+        </Grid>
+        <Grid Grid.Row="1" Margin="162,310,106,34" Height="NaN" Width="NaN">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Label Content="Nombre:" VerticalAlignment="Center" FontSize="18"/>
+            <TextBox x:Name="txtNombre" Grid.Column="1" Margin="10,0,0,0" VerticalAlignment="Center" Width="NaN"/>
+            <Label Grid.Row="1" Content="Apellidos:" VerticalAlignment="Center" Margin="0 10 0 0" FontSize="18"/>
+            <TextBox x:Name="txtApellidos" Grid.Row="1" Grid.Column="1" Margin="10 10 0 0" VerticalAlignment="Center"/>
+            <Label Grid.Row="2" Content="Edad:" VerticalAlignment="Center" Margin="0 10 0 0" FontSize="18"/>
+            <TextBox x:Name="txtEdad" Grid.Row="2" Grid.Column="1" Margin="10 10 0 0" VerticalAlignment="Center"/>
+            <Label Grid.Row="3" Content="Teléfono:" VerticalAlignment="Center" Margin="0 10 0 0" FontSize="18"/>
+            <TextBox x:Name="txtTelefono" Grid.Row="3" Grid.Column="1" Margin="10 10 0 0" VerticalAlignment="Center"/>
+
+        </Grid>
+    </Grid>
+</Window>

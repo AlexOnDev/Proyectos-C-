@@ -1,0 +1,17 @@
+C:\Users\Alejandro\source\repos\PictureViewer\PictureViewer\bin\Debug\net6.0-windows\PictureViewer.exe
+C:\Users\Alejandro\source\repos\PictureViewer\PictureViewer\bin\Debug\net6.0-windows\PictureViewer.deps.json
+C:\Users\Alejandro\source\repos\PictureViewer\PictureViewer\bin\Debug\net6.0-windows\PictureViewer.runtimeconfig.json
+C:\Users\Alejandro\source\repos\PictureViewer\PictureViewer\bin\Debug\net6.0-windows\PictureViewer.dll
+C:\Users\Alejandro\source\repos\PictureViewer\PictureViewer\bin\Debug\net6.0-windows\PictureViewer.pdb
+C:\Users\Alejandro\source\repos\PictureViewer\PictureViewer\obj\Debug\net6.0-windows\PictureViewer.csproj.AssemblyReference.cache
+C:\Users\Alejandro\source\repos\PictureViewer\PictureViewer\obj\Debug\net6.0-windows\PictureViewer.Form1.resources
+C:\Users\Alejandro\source\repos\PictureViewer\PictureViewer\obj\Debug\net6.0-windows\PictureViewer.csproj.GenerateResource.cache
+C:\Users\Alejandro\source\repos\PictureViewer\PictureViewer\obj\Debug\net6.0-windows\PictureViewer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alejandro\source\repos\PictureViewer\PictureViewer\obj\Debug\net6.0-windows\PictureViewer.AssemblyInfoInputs.cache
+C:\Users\Alejandro\source\repos\PictureViewer\PictureViewer\obj\Debug\net6.0-windows\PictureViewer.AssemblyInfo.cs
+C:\Users\Alejandro\source\repos\PictureViewer\PictureViewer\obj\Debug\net6.0-windows\PictureViewer.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\source\repos\PictureViewer\PictureViewer\obj\Debug\net6.0-windows\PictureViewer.dll
+C:\Users\Alejandro\source\repos\PictureViewer\PictureViewer\obj\Debug\net6.0-windows\refint\PictureViewer.dll
+C:\Users\Alejandro\source\repos\PictureViewer\PictureViewer\obj\Debug\net6.0-windows\PictureViewer.pdb
+C:\Users\Alejandro\source\repos\PictureViewer\PictureViewer\obj\Debug\net6.0-windows\PictureViewer.genruntimeconfig.cache
+C:\Users\Alejandro\source\repos\PictureViewer\PictureViewer\obj\Debug\net6.0-windows\ref\PictureViewer.dll
